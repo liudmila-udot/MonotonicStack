@@ -1,4 +1,4 @@
-#Monotonic Stack
+# Monotonic Stack
 
 **Monotonic stack** elements are monotonically decreasing or increasing.
 
@@ -14,7 +14,7 @@ After: [5,4,3]
 ```
 5 - bottom, 3 - top element.
 
-#Problems overview
+# Problems overview
 Monotonic stack/deque is often used to implement O(N) algorithm (generally need O(N^2) otherwise).
 When need push/pop from both ends, we need use monotonic deque.
 
@@ -31,7 +31,7 @@ find the right first element which smaller or greater than current element.
 
 https://leetcode.com/discuss/general-discussion/1061744/topic-2-monotonic-stack-or-deque
 
-###Complexity:
+## Complexity:
 
 Example:
 
